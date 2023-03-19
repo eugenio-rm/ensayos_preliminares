@@ -1,0 +1,1 @@
+SELECT * FROM agencia_viajes.agencia;
